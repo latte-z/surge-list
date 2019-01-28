@@ -279,6 +279,9 @@ DOMAIN-SUFFIX,yun.tuia.cn
 DOMAIN-SUFFIX,yunpifu.cn
 DOMAIN-SUFFIX,z.sora.yoyi.com.cn
 DOMAIN-SUFFIX,zhwnlapi.etouch.cn
+DOMAIN-SUFFIX,uczzd.cn
+DOMAIN-SUFFIX,testin.cn
+DOMAIN-SUFFIX,fraudmetrix.cn
 # 360.cn
 DOMAIN-SUFFIX,act.commercial.shouji.360.cn
 DOMAIN-SUFFIX,ad.dev.360.cn
@@ -577,7 +580,6 @@ DOMAIN-SUFFIX,sdkclick.mobile.sina.cn
 DOMAIN-SUFFIX,slog.sina.cn
 DOMAIN-SUFFIX,slog.sina.com.cn
 DOMAIN-SUFFIX,staticadm.leju.sina.com.cn
-DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
 DOMAIN-SUFFIX,trends.mobile.sina.cn
 DOMAIN-SUFFIX,u1.img.mobile.sina.cn
 DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
@@ -606,7 +608,6 @@ DOMAIN-SUFFIX,widget.weibo.com
 DOMAIN-SUFFIX,zc.biz.weibo.com
 DOMAIN-SUFFIX,zymo.mps.weibo.com
 # Ali
-DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
 DOMAIN-SUFFIX,adash-c.ut.taobao.com
 DOMAIN-SUFFIX,adash.m.taobao.com
 DOMAIN-SUFFIX,adashbc.m.taobao.com
@@ -659,6 +660,7 @@ DOMAIN-SUFFIX,tw.alimama.cn
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,acookie.alimama.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
+DOMAIN-SUFFIX,arms-retcode.aliyuncs.com
 DOMAIN-SUFFIX,aecpm.alicdn.com
 DOMAIN-SUFFIX,afp.alicdn.com
 DOMAIN-SUFFIX,afpeng.alimama.com
@@ -866,7 +868,6 @@ DOMAIN-SUFFIX,als.baidu.com
 DOMAIN-SUFFIX,anquan.baidu.com
 DOMAIN-SUFFIX,antivirus.baidu.com
 DOMAIN-SUFFIX,api.cpu.baidu.com
-DOMAIN-SUFFIX,api.map.baidu.com
 DOMAIN-SUFFIX,api.share.baidu.com
 DOMAIN-SUFFIX,api.youqian.baidu.com
 DOMAIN-SUFFIX,appc.baidu.com
@@ -1794,7 +1795,6 @@ DOMAIN-SUFFIX,db2.fuz.cc
 DOMAIN-SUFFIX,dc.ads.linkedin.com
 DOMAIN-SUFFIX,dc.csdn.net
 DOMAIN-SUFFIX,dc.meitustat.com
-DOMAIN-SUFFIX,dcps.nuomi.com
 DOMAIN-SUFFIX,dd.dante2007.com
 DOMAIN-SUFFIX,dd.iaskgo.com
 DOMAIN-SUFFIX,dd713.bj.bcebos.com
@@ -2695,7 +2695,6 @@ DOMAIN-SUFFIX,sea.napi.ucweb.com
 DOMAIN-SUFFIX,searchswapper.com
 DOMAIN-SUFFIX,sec-cdn.static.xiaomi.net
 DOMAIN-SUFFIX,sec.resource.xiaomi.net
-DOMAIN-SUFFIX,secretchina.com
 DOMAIN-SUFFIX,secure.dsp.com
 DOMAIN-SUFFIX,secure.fastclick.net
 DOMAIN-SUFFIX,secure.img-cdn.mediaplex.com
